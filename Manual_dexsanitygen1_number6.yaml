@@ -1,0 +1,8 @@
+Manual_dexsanitygen1_number6:
+    progression_balancing: 50
+    accessibility: items
+    gen1: "true" #this is the only gen included in this build, so leave this on
+    limited_run_pokemon: "true" #currently only includes mew, so feel free to turn it off if you don't
+                                #wanna deal with doing glitches or cheating
+game: Manual_dexsanitygen1_number6
+name: gen1
