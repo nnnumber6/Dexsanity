@@ -1,0 +1,21 @@
+Manual_dexsanitygen1-2_number6:
+    progression_balancing: 50
+    accessibility: items
+    gen1: "true" #this toggles on all 150 pokemon from red and blue*
+    
+    gen2: "true" #this toggles on all pokemon in gold and silver*
+    
+    limited_run_pokemon: "true" #*adds mew for gen 1 and celebi for gen 2. provides a 
+    #gameshark item that allows you to obtain those pokemon with whatever methods you'd like
+    
+    obnoxious_pokemon: "true"   #currently only includes the roaming beasts and all stone evolutions
+    #except raichu, arcanine, ninetales, starmie, and vileplume
+    #change this to false to remove them (won't remove the previously listed stone evolutions)
+    
+    alphabet_soup: "true"       #if this is set to true, each individual form of unown will be counted
+    #as its own check for EVERY GENERATION** (currently only includes gen 2)
+    
+    trade_evolutions: "true" #turn this off to remove pokemon like gengar or steelix that require
+                             #trading to evolve. this doesn't remove the link cable or in game trades
+game: Manual_dexsanitygen1-2_number6
+name: gen1
